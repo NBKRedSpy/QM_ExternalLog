@@ -1,0 +1,7 @@
+{
+  "UniqueModName": "NBKRedSpy_QM_ExternalLog",
+  "Assemblies": [
+    "QM_ExternalLog.dll"
+  ],
+  "Dependencies": []
+}
