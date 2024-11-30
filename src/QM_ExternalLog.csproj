@@ -48,7 +48,7 @@
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="UnityExternalLogWindow">
-		  <HintPath>..\..\..\Utility\UnityExternalLogWindow\src\bin\Debug\UnityExternalLogWindow.dll</HintPath>
+		  <HintPath>lib\UnityExternalLogWindow.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 	<ItemGroup>
