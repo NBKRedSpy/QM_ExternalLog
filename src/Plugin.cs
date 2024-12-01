@@ -19,7 +19,7 @@ namespace QM_ExternalLog
         [Hook(ModHookType.BeforeBootstrap)]
         public static void BeforeBootstrap(IModContext context)
         {
-            Debug.unityLogger.logHandler = new ColoredLog();
+            UnityExternalLogWindow.ExternalLog.Attach();
         }
     }
 }
